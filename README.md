@@ -12,7 +12,7 @@
   <a href="https://github.com/steven-tey/novel/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/steven-tey/novel?label=license&logo=github&color=f80&logoColor=fff" alt="License" />
   </a>
-  <a href="https://github.com/steven-tey/novel"><img src="https://img.shields.io/github/stars/steven-tey/novel?style=social" alt="Novel.sh's GitHub repo"></a>
+  <a href="https://github.com/Ashutosh102/novel-ai"><img src="https://img.shields.io/github/stars/Ashutosh102/novel-ai?style=social" alt="Novel.sh's GitHub repo"></a>
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 
 ## Introduction
 
-[Novel](https://novel.sh/) is a Notion-style WYSIWYG editor with AI-powered autocompletions.
+[Novel](https://novel-ai-sigma.vercel.app/) is a Notion-style WYSIWYG editor with AI-powered autocompletions.
 
 Here's a quick 30-second demo:
 
@@ -66,13 +66,11 @@ Novel is built on the following stack:
 
 Here's how you can contribute:
 
-- [Open an issue](https://github.com/steven-tey/novel/issues) if you believe you've encountered a bug.
-- Make a [pull request](https://github.com/steven-tey/novel/pull) to add new features/make quality-of-life improvements/fix bugs.
+- [Open an issue](https://github.com/Ashutosh102/novel-ai/issues) if you believe you've encountered a bug.
+- Make a [pull request](https://github.com/Ashutosh102/novel-ai/pull) to add new features/make quality-of-life improvements/fix bugs.
 
-## Author
 
-- Steven Tey ([@steventey](https://twitter.com/steventey))
 
 ## License
 
-Licensed under the [MIT license](https://github.com/steven-tey/novel/blob/main/LICENSE.md).
+Licensed under the [MIT license](https://github.com/Ashutosh102/novel-ai/blob/main/LICENSE.md).
