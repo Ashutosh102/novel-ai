@@ -128,14 +128,14 @@ const DEFAULT_EDITOR_CONTENT = {
                     {
                       type: "link",
                       attrs: {
-                        href: "https://twitter.com/steventey/status/1669762868416512000",
+                        href: "https://devfolio-devashu.netlify.app/",
                         target: "_blank",
                         class:
                           "text-stone-400 underline underline-offset-[3px] hover:text-stone-600 transition-colors cursor-pointer text-stone-400 underline underline-offset-[3px] hover:text-stone-600 transition-colors cursor-pointer",
                       },
                     },
                   ],
-                  text: "launch video",
+                  text: "Developer",
                 },
               ],
             },
@@ -155,7 +155,7 @@ const DEFAULT_EDITOR_CONTENT = {
                     {
                       type: "link",
                       attrs: {
-                        href: "https://github.com/steven-tey/novel",
+                        href: "https://github.com/Ashutosh102/novel-ai",
                         target: "_blank",
                         class:
                           "text-stone-400 underline underline-offset-[3px] hover:text-stone-600 transition-colors cursor-pointer",
@@ -181,7 +181,7 @@ const DEFAULT_EDITOR_CONTENT = {
                     {
                       type: "link",
                       attrs: {
-                        href: "https://vercel.com/templates/next.js/novel",
+                        href: "https://novel-ai-sigma.vercel.app/",
                         target: "_blank",
                         class:
                           "text-stone-400 underline underline-offset-[3px] hover:text-stone-600 transition-colors cursor-pointer",
