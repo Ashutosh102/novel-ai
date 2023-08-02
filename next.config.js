@@ -4,17 +4,17 @@ const nextConfig = {
     return [
       {
         source: "/github",
-        destination: "https://github.com/steven-tey/novel",
+        destination: "https://github.com/Ashutosh102/novel-ai",
         permanent: true,
       },
       {
         source: "/feedback",
-        destination: "https://github.com/steven-tey/novel/issues",
+        destination: "https://github.com/Ashutosh102/novel-ai/issues",
         permanent: true,
       },
       {
         source: "/deploy",
-        destination: "https://vercel.com/templates/next.js/novel",
+        destination: "https://github.com/Ashutosh102/novel-ai",
         permanent: true,
       },
     ];
